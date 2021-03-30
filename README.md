@@ -1,0 +1,2 @@
+# cis4400-project-1
+this assignment will give you some experience with Google BigQuery and a refresher of SQL queries. We will be using public datasets from NYC OpenData, a repository of free and public datasets provided by the city, from the city government’s agencies. In particular, we will be creating a data warehouse storing five tables, each uploaded from a different public dataset that concerns NYC Public Schools.
